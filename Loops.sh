@@ -43,7 +43,7 @@ done
 echo "===Until loop  example==="
 
 name="Aditi"
-until [ "$name" == "Priyanka"  ]; do
+until [ "$name" == "Priyanka" ]; do
     echo "Where is $name"
     # Change the variable so the loop eventually ends
     name="Priyanka"
