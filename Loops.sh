@@ -10,3 +10,5 @@ done
 # While loops execute a block of code as long as a specified condition is true.
 # starts with "while []" and ends with "done".
 #They are useful for tasks that need to repeat until a certain condition changes.
+
+while
